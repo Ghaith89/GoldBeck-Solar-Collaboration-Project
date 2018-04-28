@@ -1,7 +1,8 @@
 # GoldBeck-Solar-Collaboration-Project
-The project aim is to automate repetitive tasks in roof plans for solar panels. I have collaborated with the CAD team in GoldBeck Solar in Manheim region. The project has been achieved using IronPython inside Dynamo Studio and the Revit API.
 ===================================================================================
-ِAuthor Ghaith Tish
+The project aim is to automate repetitive tasks in roof plans for solar panels. I have collaborated with the CAD team in GoldBeck Solar in Manheim region. The project has been achieved using IronPython inside Dynamo Studio and the Revit API.
+___________________________________________________________________________________
+ِ*Author* Ghaith Tish
 
 These files have been assigned to Dynamo VisualProgramming Batteries to achieve functionality
 that is not existed in the software or tfor better list management to optimize the Visual Programming script.
