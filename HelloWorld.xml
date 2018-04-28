@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<RpsAddin>
+  <StartupScript src="good_morning_world.py"/>
+  <RibbonPanel text="Hello World">
+    <!-- the script is always searched relative to the location of the RpsAddin xml file -->
+    <PushButton text="Hello World!" src="helloworld.py"/>
+  </RibbonPanel>
+</RpsAddin>
